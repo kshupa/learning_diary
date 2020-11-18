@@ -10,3 +10,4 @@ class Topic(models.Model):
     def __str__(self):
         """Return a string representation of a model."""
         return self.text
+        
