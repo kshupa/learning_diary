@@ -4,4 +4,4 @@ from .models import Topic
 
 admin.site.register(Topic)
 
-# Register your models here.
+admin.site.register(Entry)
